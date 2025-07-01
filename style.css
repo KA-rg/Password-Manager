@@ -38,3 +38,18 @@ ul > li:hover{
     color: white;
 
 }
+
+table, td, tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px 13px;
+}
+
+.container {
+    max-width: 80vw;
+    margin: 23px auto;
+}
+
+h1, h2, h3 {
+    margin: 23px 0;
+}
